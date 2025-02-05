@@ -1,3 +1,4 @@
 ## About me
-I am a post-doc at Professor [Seth Flaxman](https://sethrf.com)'s lab at Department of Computer Science, University of Oxford. I am also a part of [Machine Learning and Global Health Network](https://mlgh.net)
-I completed my PhD degree in Statistics at London School of Economics (LSE), supervised by Professor [Wicher Bergsma](https://www.lse.ac.uk/statistics/people/wicher-bergsma). My research interests include: Gaussian process regression, kernel methods, spatio-temporal analysis, statistical modelling, Bayesian inference and efficient and interpretable statistical learning. I am particularly interested in applications to the areas of environmental studies, and epidemiology. Prior to starting my PhD study, I was working as a statistician at the pharmaceutical industry. I completed my Master's degree in Statistics at LSE, and my Bachelor's in Economics and Political Science at Waseda University in Tokyo with Professor [Shuhei Kurizaki](https://skurizaki.github.io) as my advisor. 
+* I am a post-doc at Professor [Seth Flaxman](https://sethrf.com)'s lab at Department of Computer Science, University of Oxford
+* I am also a part of [Machine Learning and Global Health Network](https://mlgh.net)
+* I work a lot with spatial and spatio-temporal modelling in the domains of public health, environmental research and social science
